@@ -1,4 +1,4 @@
-Telnet Bruteforce
+## Telnet Brute Force Cracking
 
 Script to bruteforce Telnet user and password created by Anonymous Content
 
@@ -11,3 +11,4 @@ Script to bruteforce Telnet user and password created by Anonymous Content
 
         Example:  telnet-hack -h localhost
 
+Created By @TheAnonHackUk
