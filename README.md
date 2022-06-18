@@ -1,6 +1,6 @@
 ## Telnet Brute Force Cracking
 
-Script to bruteforce Telnet user and password created by Anonymous Content
+Script to bruteforce Telnet user and password created by DotNet team
 
 ./telnet-hack.py
 
